@@ -30,6 +30,14 @@ Old projects brought back to life: each one runs in the browser or shows real re
 | [gorest-cli](https://github.com/andreanicte02/gorest-cli) · [demo](https://andreanicte02.github.io/gorest-cli/) | Client and CLI for the GoRest API, also running in the browser | Go, WebAssembly |
 | [ice-elecciones-sql](https://github.com/andreanicte02/ice-elecciones-sql) · [demo](https://andreanicte02.github.io/ice-elecciones-sql/) | Election spreadsheet normalized into 10 tables and 14 SQL reports | SQL Server |
 
+## After AI
+
+Newer projects, made once AI was already part of the picture.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [pokemon-frontend](https://github.com/andreanicte02/pokemon-frontend) | Pokémon admin app (CRUD, permission-based routing, multi-step wizard, infinite scroll) that doubles as a living reference of front-end practices, each one mapped to a real example in the code | React 19, TypeScript, Redux Toolkit + RTK Query, react-hook-form + Yup, MUI, Vite |
+
 ## University coursework
 
 Smaller projects and practices from my Computer Science degree, kept as they were.
